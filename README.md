@@ -1,7 +1,7 @@
 # Minesweeper Using Java
 <span stype="color blue">**Inspiration:**</span>
 This game was primarily created due to my own enjoyment of the game
-and I wanted to see if my own understanding of the game was enough
+and a test to see if my own understanding of the game was enough
 for me to recreate it. This is a rather simple version of the game made 
 entirely of text.
 
