@@ -5,7 +5,7 @@ and a test to see if my own understanding of the game was enough
 for me to recreate it. This is a rather simple version of the game made 
 entirely of text.
 
-<span style="color:blue">**Example**</span>
+<span style="color:blue">**Example(lined up in game)**</span>
   
  X 0 1 2 3 4 5 6 7 8 9                                                                                                      
  0 _ _ _ _ _ _ _ _ _ _                                                                                                       
