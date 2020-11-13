@@ -1,12 +1,14 @@
 # Minesweeper Using Java
 <span stype="color blue">**Inspiration:**</span>
 This game was primarily created due to my own enjoyment of the Minesweeper.
+
 <span stype="color blue">**About the code:**</span>
 The entire game is coded using Java and is meant to be played on an IDE.
 The game takes user input on what action they wish to perform and where. The 
 field of the game is maintained using nested arrays and updates to the field are 
 performed either through specified points or through recursion(if a revealed cell
 reveals multiple other cells). 
+
 <span stype="color blue">**Game:**</span>
 The victory condition is achieved only when the 
 total amount of revealed cells is equal to the number of cells minus the amount
