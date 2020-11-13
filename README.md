@@ -1,9 +1,16 @@
 # Minesweeper Using Java
 <span stype="color blue">**Inspiration:**</span>
-This game was primarily created due to my own enjoyment of the game
-and a test to see if my own understanding of the game was enough
-for me to recreate it. This is a rather simple version of the game made 
-entirely of text.
+This game was primarily created due to my own enjoyment of the Minesweeper.
+
+The entire game is coded using Java and is meant to be played on an IDE.
+The game takes user input on what action they wish to perform and where. The 
+field of the game is maintained using nested arrays and updates to the field are 
+performed either through specified points or through recursion(if a revealed cell
+reveals multiple other cells). 
+
+The victory condition is achieved only when the 
+total amount of revealed cells is equal to the number of cells minus the amount
+of mines. Revealing a position containing a mine causes a loss.
 
 <span style="color:blue">**Example(lined up in game)**</span>
   
